@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/platform/build/static/css/main.5f361e03.chunk.css",
-    "main.js": "/platform/build/static/js/main.3e494347.chunk.js",
-    "main.js.map": "/platform/build/static/js/main.3e494347.chunk.js.map",
-    "runtime-main.js": "/platform/build/static/js/runtime-main.719028b0.js",
-    "runtime-main.js.map": "/platform/build/static/js/runtime-main.719028b0.js.map",
-    "static/js/2.4db05e58.chunk.js": "/platform/build/static/js/2.4db05e58.chunk.js",
-    "static/js/2.4db05e58.chunk.js.map": "/platform/build/static/js/2.4db05e58.chunk.js.map",
-    "index.html": "/platform/build/index.html",
-    "precache-manifest.148e245d660cbf84326cac95846c7722.js": "/platform/build/precache-manifest.148e245d660cbf84326cac95846c7722.js",
-    "service-worker.js": "/platform/build/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/platform/build/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4db05e58.chunk.js.LICENSE.txt": "/platform/build/static/js/2.4db05e58.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/platform/build/static/media/logo.5d5d9eef.svg"
+    "main.css": "/build/static/css/main.5f361e03.chunk.css",
+    "main.js": "/build/static/js/main.d81f1a38.chunk.js",
+    "main.js.map": "/build/static/js/main.d81f1a38.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.26a445ec.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.26a445ec.js.map",
+    "static/js/2.4db05e58.chunk.js": "/build/static/js/2.4db05e58.chunk.js",
+    "static/js/2.4db05e58.chunk.js.map": "/build/static/js/2.4db05e58.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.00d4009c65e9d69b159f42128ac384a6.js": "/build/precache-manifest.00d4009c65e9d69b159f42128ac384a6.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/build/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4db05e58.chunk.js.LICENSE.txt": "/build/static/js/2.4db05e58.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.719028b0.js",
+    "static/js/runtime-main.26a445ec.js",
     "static/js/2.4db05e58.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3e494347.chunk.js"
+    "static/js/main.d81f1a38.chunk.js"
   ]
 }
